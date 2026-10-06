@@ -1,6 +1,6 @@
 # jpa02-annagornyitzki
 
-Repo: [https://github.com/ucsb-cs156-f26/STARTER-jpa02](https://github.com/ucsb-cs156-f26/jpa02-anngornyitzki)
+Repo: [https://github.com/ucsb-cs156-f26/jpa02-annagornyitzki](https://github.com/ucsb-cs156-f26/jpa02-anngornyitzki)
 
 Deployed at: https://jpa02-annagornyitzki.dokku-06.cs.ucsb.edu
 
